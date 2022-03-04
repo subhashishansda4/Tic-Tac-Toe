@@ -7,7 +7,7 @@ Created on Fri Mar  4 14:34:32 2022
 
 import math
 import time
-from player import HumanPlayer, RandomComputerPlayer
+from player import HumanPlayer, RandomComputerPlayer, SmartComputerPlayer
 
 class TicTacToe():
     def __init__(self):
@@ -119,6 +119,6 @@ def play(game, x_player, o_player, print_game=True):
 
 if __name__ == '__main__':
     x_player = HumanPlayer('X')
-    o_player = RandomComputerPlayer('O')
+    o_player = SmartComputerPlayer('O')
     t = TicTacToe()
     play(t, x_player, o_player, print_game=True)
