@@ -14,3 +14,4 @@ The first player to get three of their marks in a row (horizontally, vertically,
 ![main screen](https://github.com/subhashishansda4/Tic-Tac-Toe/blob/main/work/layout_1.jpg)
 
 ## EDA
+https://github.com/subhashishansda4/Tic-Tac-Toe/assets/84849423/af059b65-ccff-4924-a0e0-b36ee1dfa5ba
